@@ -1,0 +1,208 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="FTP" domain="panaceahotel.com" resolutions="1x" timestamp="1479507528544" ftp_hostname="ftp://ftp.my000825.ferozo.com" ftp_rootfolder="/public_html">
+  <folder name="css">
+    <file name="site_global.css" crc="3892976706"/>
+    <file name="index.css" crc="160101831" ref="index"/>
+    <file name="novedades.css" crc="505570245" ref="novedades"/>
+    <file name="iefonts_novedades.css" crc="3854752379" ref="novedades"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:phone>galeria:phone>eventos:index"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>galeria:phone>eventos:index:novedades"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="phone>index:phone>galeria:phone>eventos:index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>index:phone>galeria:phone>eventos:index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="phone>index:phone>galeria:phone>eventos:index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>servicios:phone>galeria:phone>ubicacion:phone>consulta:phone>eventos:index:novedades"/>
+    <file name="form_check.php" crc="430210585" ref="phone>consulta:phone>eventos:index"/>
+    <file name="form_throttle.php" crc="282343929" ref="phone>consulta:phone>eventos:index"/>
+    <file name="form_process.php" crc="339897355" ref="phone>consulta:phone>eventos:index"/>
+    <file name="form-u7139.php" crc="4030751517" ref="phone>consulta"/>
+    <file name="form-u7385.php" crc="4116338821" ref="phone>eventos"/>
+    <file name="museredirect.js" crc="3985760531" ref="index"/>
+    <file name="form-u2031.php" crc="228911482" ref="index"/>
+    <file name="form-u2080.php" crc="332190887" ref="index"/>
+    <file name="form-u5044.php" crc="326946508" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="caja_02.png" crc="248630631" ref="phone>index"/>
+    <file name="u3023-4.png" crc="176590482" ref="phone>index"/>
+    <file name="u2807-14.png" crc="533673265" ref="phone>index"/>
+    <file name="galeria_panacea_07-u6420-fr.jpg" crc="4048488969" ref="phone>index"/>
+    <file name="galeria_panacea_08-u6467-fr.jpg" crc="3842937497" ref="phone>index"/>
+    <file name="galeria_panacea_02-u6481-fr.jpg" crc="4211613690" ref="phone>index"/>
+    <file name="logo_bordeaux.png" crc="465635669" ref="phone>index"/>
+    <file name="logo_telefono.png" crc="79239282" ref="phone>index"/>
+    <file name="logo_mail.png" crc="479561340" ref="phone>index"/>
+    <file name="u3031-51.png" crc="3838977709" ref="phone>servicios"/>
+    <file name="galeria_panacea_01184x110.jpg" crc="3812405829" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_02184x110.jpg" crc="274786024" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_07-crop-u6564.jpg" crc="4019134633" ref="phone>galeria"/>
+    <file name="galeria_panacea_08-crop-u6584.jpg" crc="3855636141" ref="phone>galeria"/>
+    <file name="panacea primera parte-32.jpg" crc="4172682220" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_06-crop-u6804.jpg" crc="168487439" ref="phone>galeria"/>
+    <file name="galeria_panacea_01336x202.jpg" crc="4052265869" seo="true" ref="phone>galeria"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>galeria:index"/>
+    <file name="galeria_panacea_02336x202.jpg" crc="4052324257" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_07336x171.jpg" crc="3798461298" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_08336x125.jpg" crc="3838659572" seo="true" ref="phone>galeria"/>
+    <file name="galeria_panacea_06336x160.jpg" crc="200478466" seo="true" ref="phone>galeria"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>galeria:index"/>
+    <file name="boton-360-u3039-fr.jpg" crc="488509493" ref="phone>galeria"/>
+    <file name="u7111-11.png" crc="218033329" ref="phone>ubicacion"/>
+    <file name="u7158-17.png" crc="327741437" ref="phone>consulta"/>
+    <file name="u7158-17-r.png" crc="4194877312" ref="phone>consulta"/>
+    <file name="u7158-17-m.png" crc="127390528" ref="phone>consulta"/>
+    <file name="u7158-17-fs.png" crc="4039559903" ref="phone>consulta"/>
+    <file name="syr-meetings-social-event-12430561-u7377-fr.jpg" crc="302818984" ref="phone>eventos"/>
+    <file name="ziniasklaida-u7522-fr.jpg" crc="4048963464" ref="phone>eventos"/>
+    <file name="u7417-17.png" crc="177840227" ref="phone>eventos"/>
+    <file name="u7417-17-r.png" crc="3814362716" ref="phone>eventos"/>
+    <file name="u7417-17-m.png" crc="158113818" ref="phone>eventos"/>
+    <file name="u7417-17-fs.png" crc="4037777430" ref="phone>eventos"/>
+    <file name="panacea-primera-parte-1_web.jpg" crc="181558923" seo="true" ref="index"/>
+    <file name="panacea-primera-parte-15_web.jpg" crc="384895831" seo="true" ref="index"/>
+    <file name="panacea-primera-parte-16_web.jpg" crc="4196720519" seo="true" ref="index"/>
+    <file name="panacea-primera-parte-35_web.jpg" crc="4100423851" seo="true" ref="index"/>
+    <file name="face_color.png" crc="4012937552" seo="true" ref="index:novedades"/>
+    <file name="g-_color.png" crc="256624903" seo="true" ref="index:novedades"/>
+    <file name="twiter_color.png" crc="4138022401" seo="true" ref="index:novedades"/>
+    <file name="instagram_color.png" crc="3931575373" seo="true" ref="index:novedades"/>
+    <file name="cabezal_degradado.jpg" crc="105411447" ref="index:novedades"/>
+    <file name="logo.png" crc="3883363441" seo="true" ref="index:novedades"/>
+    <file name="u2402-grad.png" crc="4061163432" ref="index"/>
+    <file name="iso_logo.png" crc="4172201694" ref="index"/>
+    <file name="u2445-3.png" crc="289532942" ref="index"/>
+    <file name="u2506-3.png" crc="289532942" ref="index"/>
+    <file name="13.jpg" crc="519662569" ref="index"/>
+    <file name="galeria_panacea_01295x177.jpg" crc="3838827182" seo="true" ref="index"/>
+    <file name="galeria_panacea_02295x177.jpg" crc="4277260307" seo="true" ref="index"/>
+    <file name="galeria_panacea_03295x177.jpg" crc="4197363225" seo="true" ref="index"/>
+    <file name="galeria_panacea_04-crop-u6012.jpg" crc="3830135251" ref="index"/>
+    <file name="galeria_panacea_05295x177.jpg" crc="161889699" seo="true" ref="index"/>
+    <file name="galeria_panacea_06-crop-u6052.jpg" crc="4109440954" ref="index"/>
+    <file name="galeria_panacea_07-crop-u6072.jpg" crc="4134213242" ref="index"/>
+    <file name="galeria_panacea_08-crop-u6092.jpg" crc="493294551" ref="index"/>
+    <file name="galeria_panacea_01.jpg" crc="76476446" seo="true" ref="index"/>
+    <file name="galeria_panacea_02.jpg" crc="4099882216" seo="true" ref="index"/>
+    <file name="galeria_panacea_03.jpg" crc="3807872784" seo="true" ref="index"/>
+    <file name="galeria_panacea_04.jpg" crc="531623882" seo="true" ref="index"/>
+    <file name="galeria_panacea_05.jpg" crc="228783975" seo="true" ref="index"/>
+    <file name="galeria_panacea_06.jpg" crc="4145078667" seo="true" ref="index"/>
+    <file name="galeria_panacea_07.jpg" crc="3987519865" seo="true" ref="index"/>
+    <file name="galeria_panacea_08.jpg" crc="3900436714" seo="true" ref="index"/>
+    <file name="boton-360.jpg" crc="3793451822" ref="index"/>
+    <file name="u3296-4.png" crc="190809062" ref="index"/>
+    <file name="4-u836-fr.jpg" crc="4269561855" ref="index"/>
+    <file name="4.jpg" crc="239158447" ref="index"/>
+    <file name="panacea-primera-parte-28_standard_web-u5858-fr.jpg" crc="4072872296" ref="index"/>
+    <file name="panacea-primera-parte-28_standard_web.jpg" crc="4066321096" ref="index"/>
+    <file name="u1866-14.png" crc="3845759943" ref="index"/>
+    <file name="ziniasklaida.jpg" crc="4249973438" ref="index"/>
+    <file name="syr-meetings-social-event-12430561.jpg" crc="4005580645" ref="index"/>
+    <file name="eventos_sociales.jpg" crc="4213115796" ref="index"/>
+    <file name="u2038-17.png" crc="177840227" ref="index"/>
+    <file name="u2038-17-r.png" crc="3814362716" ref="index"/>
+    <file name="u2038-17-m.png" crc="158113818" ref="index"/>
+    <file name="u2038-17-fs.png" crc="4037777430" ref="index"/>
+    <file name="eventos_empresariales.jpg" crc="155059346" ref="index"/>
+    <file name="u2094-17.png" crc="177840227" ref="index"/>
+    <file name="u2094-17-r.png" crc="3814362716" ref="index"/>
+    <file name="u2094-17-m.png" crc="158113818" ref="index"/>
+    <file name="u2094-17-fs.png" crc="4037777430" ref="index"/>
+    <file name="u2371-10.png" crc="3897704414" ref="index"/>
+    <file name="u1615-4.png" crc="3981917537" ref="index"/>
+    <file name="u5084-17.png" crc="327741437" ref="index"/>
+    <file name="u5084-17-r.png" crc="4194877312" ref="index"/>
+    <file name="u5084-17-m.png" crc="127390528" ref="index"/>
+    <file name="u5084-17-fs.png" crc="4039559903" ref="index"/>
+    <file name="base_consultas_c.jpg" crc="3807080574" ref="index"/>
+    <file name="u2729-11.png" crc="254673417" ref="index"/>
+    <file name="logo2.png" crc="3883363441" seo="true" ref="index"/>
+    <file name="el_sibarita_logo_web.png" crc="3822151560" seo="true" ref="index"/>
+    <file name="u7978-grad.png" crc="137848979" ref="novedades"/>
+    <file name="vgb medieval.jpg" crc="3800481626" seo="true" ref="novedades"/>
+    <file name="vgb medieval_02.jpg" crc="216939809" seo="true" ref="novedades"/>
+    <file name="vgb medieval_04.jpg" crc="4210410584" seo="true" ref="novedades"/>
+    <file name="vgb medieval_03.jpg" crc="310677803" seo="true" ref="novedades"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4140008933" ref="phone>ubicacion:phone>index:phone>consulta:phone>servicios:phone>eventos:phone>galeria"/>
+      <file name="ubicacion.css" crc="4253368377" ref="phone>ubicacion"/>
+      <file name="index.css" crc="219660349" ref="phone>index"/>
+      <file name="consulta.css" crc="4110961476" ref="phone>consulta"/>
+      <file name="servicios.css" crc="532371276" ref="phone>servicios"/>
+      <file name="eventos.css" crc="87359769" ref="phone>eventos"/>
+      <file name="galeria.css" crc="335483277" ref="phone>galeria"/>
+    </folder>
+    <file name="index.html" crc="517220731" seo="true" mt="1471705761990" redirect="true"/>
+    <file name="servicios.html" crc="183696826" seo="true" mt="1470859680889" redirect="true"/>
+    <file name="galeria.html" crc="4286045056" seo="true" mt="1470859680889" redirect="true"/>
+    <file name="ubicacion.html" crc="234654322" seo="true" mt="1470859680889" redirect="true"/>
+    <file name="consulta.html" crc="25316145" seo="true" mt="1470859680889" redirect="true"/>
+    <file name="eventos.html" crc="4005963693" seo="true" mt="1470860788034" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="300987379" seo="true" mt="1479507503113" redirect="true"/>
+  <file name="novedades.html" crc="303659751" seo="true" mt="1479507118194" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Panacea Hotel Boutique" filename="index.html" muse_href="page:U71" master="U62">
+        <breakpoint uid="U3383" maxwidth="1220" minwidth="0" squishy="false"/>
+        <anchor name="ubicacion" html_id="ubicacion" muse_href="anchor:U66:U1593" includeInBPs="U3383"/>
+        <anchor name="habitaciones" html_id="habitaciones" muse_href="anchor:U66:U1594" includeInBPs="U3383"/>
+        <anchor name="servicios" html_id="servicios" muse_href="anchor:U66:U1595" includeInBPs="U3383"/>
+        <anchor name="bienvenidos" html_id="bienvenidos" muse_href="anchor:U66:U1596" includeInBPs="U3383"/>
+        <anchor name="consultas" html_id="consultas" muse_href="anchor:U66:U1597" includeInBPs="U3383"/>
+        <anchor name="promociones" html_id="promociones" muse_href="anchor:U66:U1605" includeInBPs="U3383"/>
+        <anchor name="Galeria" html_id="galeria" muse_href="anchor:U66:U1644" includeInBPs="U3383"/>
+        <anchor name="Eventos" html_id="eventos" muse_href="anchor:U66:U1863" includeInBPs="U3383"/>
+        <anchor name="habitaciones_ok" html_id="habitaciones_ok" muse_href="anchor:U66:U2385" includeInBPs="U3383"/>
+        <anchor name="redes" html_id="redes" muse_href="anchor:U66:U2403" includeInBPs="U3383"/>
+      </page>
+      <masterPage name="A-Master" master="U58" uid="U62">
+        <breakpoint uid="U3375" maxwidth="1220" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U58">
+        <breakpoint uid="U3384" maxwidth="1220" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="novedades" filename="novedades.html" muse_href="page:U7955" master="U62">
+        <breakpoint uid="U7939" maxwidth="1220" minwidth="0" squishy="false"/>
+        <anchor name="novedades_01" html_id="novedades_01" muse_href="anchor:U7938:U8215" includeInBPs="U7939"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="home" filename="index.html" muse_href="page:U1587" master="U1578">
+        <breakpoint uid="U3381" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U1574" uid="U1578">
+        <breakpoint uid="U3382" maxwidth="400" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U1574">
+        <breakpoint uid="U3376" maxwidth="400" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="servicios" filename="servicios.html" muse_href="page:U2815" master="U1578">
+        <breakpoint uid="U3380" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+      <page name="galeria" filename="galeria.html" muse_href="page:U2851" master="U1578">
+        <breakpoint uid="U3379" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+      <page name="ubicacion" filename="ubicacion.html" muse_href="page:U2866" master="U1578">
+        <breakpoint uid="U3378" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+      <page name="consulta" filename="consulta.html" muse_href="page:U2881" master="U1578">
+        <breakpoint uid="U3377" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+      <page name="eventos" filename="eventos.html" muse_href="page:U7342" master="U1578">
+        <breakpoint uid="U7326" maxwidth="400" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

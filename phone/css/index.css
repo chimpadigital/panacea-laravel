@@ -1,0 +1,699 @@
+.version.index /* version checker */
+{
+	color: #00000D;
+	background-color: #17C03D;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 678px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#pu7066
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 17px;
+	margin-left: 19px;
+}
+
+#u7066
+{
+	z-index: 2;
+	width: 297px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 170px;
+	padding: 261px 43px 28px 22px;
+	background: transparent url("../../images/caja_02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#pu3023-4
+{
+	width: 0.01px;
+	margin-left: 33px;
+}
+
+#u3023-4
+{
+	z-index: 3;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7107
+{
+	z-index: 31;
+	width: 119px;
+	height: 1px;
+	background-color: #7F0019;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 37px;
+	left: 60px;
+}
+
+#u2807-14
+{
+	z-index: 7;
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#pamphletu6368
+{
+	z-index: 21;
+	width: 0.01px;
+	height: 235px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 195px;
+	left: 10px;
+}
+
+#u6371
+{
+	position: absolute;
+	width: 342px;
+	background-color: transparent;
+}
+
+#u6371popup
+{
+	z-index: 22;
+}
+
+#u6372
+{
+	z-index: 23;
+	width: 342px;
+	height: 220px;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u6420
+{
+	z-index: 24;
+	width: 339px;
+	height: 218px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #C8C8C8;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -2px;
+	left: -1px;
+	background: transparent url("../../images/galeria_panacea_07-u6420-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6467
+{
+	z-index: 25;
+	width: 338px;
+	height: 216px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #C8C8C8;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../../images/galeria_panacea_08-u6467-fr.jpg") no-repeat right center;
+	background-size: cover;
+}
+
+#u6481
+{
+	z-index: 26;
+	width: 338px;
+	height: 216px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #C8C8C8;
+	margin-right: -10000px;
+	position: relative;
+	background: transparent url("../../images/galeria_panacea_02-u6481-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u6379
+{
+	z-index: 27;
+	width: 50px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 225px;
+	left: 286px;
+}
+
+#u6382
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	border-radius: 5px;
+}
+
+#u6382:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6472
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	border-radius: 5px;
+	left: 20px;
+}
+
+#u6472:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6484
+{
+	position: absolute;
+	width: 8px;
+	height: 8px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	border-radius: 5px;
+	left: 40px;
+}
+
+#u6484:hover
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: #7F0019;
+	background-color: transparent;
+	width: 8px;
+	height: 8px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u6382.PamphletThumbSelected,#u6472.PamphletThumbSelected,#u6484.PamphletThumbSelected
+{
+	border-width: 0px;
+	background-color: #7F0019;
+	width: 10px;
+	height: 10px;
+	min-height: 2px;
+	margin: 0px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u7577
+{
+	z-index: 32;
+	width: 86px;
+	min-height: 49px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+}
+
+#u6864
+{
+	z-index: 34;
+	width: 209px;
+	height: 111px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 54px;
+	left: 67px;
+}
+
+#u6866-4
+{
+	z-index: 39;
+	width: 95px;
+	min-height: 23px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 8px;
+}
+
+#u6866-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 95px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#u6866-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 95px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#u6867-3
+{
+	z-index: 43;
+	width: 27px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 212px;
+}
+
+#u6867-3:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 27px;
+	margin: 5px -10000px 0px 0px;
+}
+
+#u6868-3
+{
+	z-index: 46;
+	width: 29px;
+	min-height: 25px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 127px;
+}
+
+#u6868-3:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	width: 29px;
+	margin: 4px -10000px 0px 0px;
+}
+
+#accordionu6869wrapper
+{
+	min-height: 220px;
+	z-index: 49;
+	margin-right: -10000px;
+	margin-left: 261px;
+}
+
+#accordionu6869
+{
+	z-index: 49;
+	width: 100px;
+	position: relative;
+}
+
+#u6870
+{
+	z-index: 50;
+	width: 100px;
+	position: relative;
+}
+
+#u6908-4
+{
+	z-index: 51;
+	width: 90px;
+	min-height: 18px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	position: relative;
+}
+
+#u6908-4:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 18px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u6908-4:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 18px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u6908-4.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 18px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u6871
+{
+	z-index: 55;
+	width: 100px;
+	position: relative;
+}
+
+#menuu6872
+{
+	z-index: 56;
+	width: 94px;
+	position: relative;
+	margin-right: -10000px;
+	left: 4px;
+}
+
+#u6901
+{
+	width: 94px;
+	position: relative;
+}
+
+#u6904
+{
+	width: 94px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6904:hover
+{
+	width: 94px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6906-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+}
+
+#u6904:hover #u6906-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6874
+{
+	width: 94px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6875-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+}
+
+#u6904.MuseMenuActive #u6906-4,#u6874:hover #u6875-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6888
+{
+	width: 94px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6889-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+}
+
+#u6874.MuseMenuActive #u6875-4,#u6888:hover #u6889-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7344
+{
+	width: 94px;
+	padding-bottom: 10px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7347-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 5px;
+}
+
+#u6888.MuseMenuActive #u6889-4,#u7344:hover #u7347-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6883
+{
+	width: 94px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6884-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u7344.MuseMenuActive #u7347-4,#u6883:hover #u6884-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6873,#u6887,#u7343,#u6880,#u6894
+{
+	width: 94px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u6895
+{
+	width: 94px;
+	padding-bottom: 9px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u6904.MuseMenuActive,#u6874.MuseMenuActive,#u6888.MuseMenuActive,#u7344.MuseMenuActive,#u6883.MuseMenuActive,#u6895.MuseMenuActive
+{
+	width: 94px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6898-4
+{
+	width: 94px;
+	min-height: 19px;
+	position: relative;
+	margin-right: -10000px;
+	top: 4px;
+}
+
+#u6883.MuseMenuActive #u6884-4,#u6895:hover #u6898-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6895.MuseMenuActive #u6898-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 94px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u6863
+{
+	z-index: 33;
+	min-height: 26px;
+	padding-bottom: 3px;
+}
+
+#u6865-4
+{
+	z-index: 35;
+	width: 325px;
+	min-height: 21px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 27px;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u6863-bw
+{
+	z-index: 33;
+	min-height: 26px;
+	margin-bottom: -29px;
+	margin-top: 42px;
+}
+
+.html
+{
+	background-color: #FFF7CC;
+	background: -webkit-gradient(linear, left center, right center, from(#FFF7CC),color-stop(100%, #FFFAE8));
+	background: -webkit-linear-gradient(left,#FFF7CC ,#FFFAE8 100%);
+	background: linear-gradient(to right,#FFF7CC ,#FFFAE8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFFFF7CC, endColorstr=#FFFFFAE8, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFF7CC', endColorstr='#FFFFFAE8', GradientType=1)";
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+	padding-bottom: 28px;
+}
+
+.verticalspacer
+{
+	min-height: 1px;
+}
+
+@-ms-viewport
+{
+	width: 400px;
+}
+
+@-webkit-viewport
+{
+	width: 400px;
+}
+
+@-o-viewport
+{
+	width: 400px;
+}
+
+@-moz-viewport
+{
+	width: 400px;
+}
+
+@viewport
+{
+	width: 400px;
+}
+
